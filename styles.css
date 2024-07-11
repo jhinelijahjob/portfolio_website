@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #9bf190;
+}
+
+header {
+    background: #4d776a;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+
+header nav ul img {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 1rem;
+    
+}
+
+section h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+
+
+
+.myworks {
+    text-align: center;
+    border: 2px solid #332828;
+    background-color: #a75050;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    width: 50%; 
+    margin-left: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+form label {
+    margin-top: 1rem;
+}
+
+form input, form textarea {
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+form button {
+    padding: 0.5rem;
+    background:  #4d776a;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background:  #4d776a;
+    color: #fff;
+}
+
+p {
+    text-align: center;
+}
+
+
